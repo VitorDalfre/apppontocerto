@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pontocerto.iml" filepath="$PROJECT_DIR$/pontocerto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/pontocerto_android.iml" filepath="$PROJECT_DIR$/android/pontocerto_android.iml" />
+    </modules>
+  </component>
+</project>
